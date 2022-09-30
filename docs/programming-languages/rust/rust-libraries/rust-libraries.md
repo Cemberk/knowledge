@@ -2191,6 +2191,9 @@
 - [webidl-rs](https://github.com/sgodwincs/webidl-rs) - WebIDL parser written in Rust.
 - [ics](https://github.com/hummingly/ics) - Rust library for creating iCalendar files.
 - [Autumn](https://github.com/xurtis/autumn) - Library for building recursive descent parsers using combinators.
+- [Flux](https://github.com/liquid-rust/flux) - Refinement Types for Rust.
+- [parasol](https://github.com/nical/parasol) - Multi-threaded job scheduler in Rust.
+- [orchestra](https://github.com/paritytech/orchestra) - Partial actor pattern with a global orchestrator.
 
 ## Cargo Plugins
 
@@ -2288,6 +2291,7 @@
 - [cargo add-dynamic](https://github.com/rksm/cargo-add-dynamic) - Allows to wrap dependencies as dylibs.
 - [cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - Custom cargo command that analyses all cargo target directories under a given parent directory and allows for cleaning them.
 - [cargo-changelog](https://github.com/matthiasbeyer/cargo-changelog) - Changelog management tool for CLI.
+- [cargo-careful](https://github.com/RalfJung/cargo-careful) - Execute Rust code carefully, with extra checking along the way.
 
 ## Notes
 
